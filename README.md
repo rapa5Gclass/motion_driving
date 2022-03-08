@@ -11,7 +11,7 @@ ros2 pkg create --build-type ament_python motion_bot
 PC에 git 다운하고 압축풀기  
 
 setup.py 에 아래 추가하기. 
-'hand_wheel = motion_bot.hand_wheel:main',
+'hand_wheel = motion_bot.hand_wheel:main',  
 'sub_cam = motion_bot.sub_cam:main',
 
 ```
