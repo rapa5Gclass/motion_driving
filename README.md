@@ -10,10 +10,12 @@ ros2 pkg create --build-type ament_python motion_bot
 
 PC에 git 다운하고 압축풀기  
 
+setup.py 수정하기. 
 
 ```
 colcon build  
 ```
+
 
 ![0001](https://user-images.githubusercontent.com/79293543/157193912-f2b4bac2-4ae6-45ce-8cfc-933f8aec068b.jpg)    
 
